@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">
   <br>
- Hi! 👋 I'm Victor, a Cyber-security enthusiast from Gothenburg, Sweden.
+ <i>Hi! 👋 I'm Victor, a Cyber-security enthusiast from Gothenburg, Sweden.<i>
 </h3>
 <br>
 <h3 align="center"> Currently Working on a project called Seedling. 🌱 </h3>
