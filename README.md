@@ -10,9 +10,9 @@
  Hi! 👋 I'm Victor, a cyber-security student from gothenburg, Sweden.
 </h3>
 <br>
-<h3 align="center"> <i>Currently Working on a project called Seedling.</i> 🌱 </h3>
-<p align="center"> Seedling is based on a NodeMCU board using the esp8266 chip in order to monitor wifi traffic! </p>
-<p align="center"> The project surrounds active reconnaissance for long periods of time (Approx 1 year)</p>
+<h3 align="center"> <i>Currently Working on a project called pwnasite.</i> 🌱 </h3>
+<p align="center"> pwnasite is based on a D1 Mini board using the esp8266 chip in order to pwn IOT devices! </p>
+<p align="center"> The project surrounds active reconnaissance for long periods of time</p>
 <p align="center"> If this sounds interesting don't forget to follow me!</p>
 </body>
 
