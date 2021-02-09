@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">
   <br>
- Hi! 👋 I'm Victor aka vicxor, a cyber-security student from gothenburg, Sweden.
+ Hi! 👋 I'm Victor, a cyber-security student from gothenburg, Sweden.
 </h3>
 <br>
 <h3 align="center"> <i>Currently Working on a project called pwnasite.</i> 🐛 </h3>
