@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">
   <br>
- Hi! 👋 I'm Victor, a cyber-security analyst & penetration tester from gothenburg, Sweden.
+ Hi! 👋 I'm Victor, a cyber-security analyst & penetration tester from Gothenburg, Sweden.
 </h3>
 <br>
 <h3 align="center"> <i>Currently Working on a project called pwnasite.</i> 🐛 </h3>
